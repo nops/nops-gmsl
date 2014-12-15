@@ -11,7 +11,7 @@ body {
     background-color: #2196F3;
 }
 
-.navbar-inverse .navbar-brand {
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
     color: #FFFFFF;
 }
 
